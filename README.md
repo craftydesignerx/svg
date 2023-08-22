@@ -1,2 +1,2 @@
-# svg
-Tutorial on Scallable Vector Graphics
+# Scalable Vector Graphics
+Tutorial on Scalable Vector Graphics
